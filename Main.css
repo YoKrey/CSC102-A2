@@ -1,0 +1,40 @@
+/*Michael Schlitt*/
+
+body{
+background-color: rgb(33, 120, 175);
+color: black;
+
+}
+
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    line-height: 30px;
+
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeImage{
+    margin-right: 200px;
+    width: 400px;
+
+}
+h1{
+    background-color: yellow;
+    text-align: center;
+    border: 1px solid black;
+    border-top-left-radius: 1em 1em;
+    border-top-right-radius: 1em 1em;
+    border-bottom-right-radius: 1em 1em;
+    border-bottom-left-radius: 1em 1em;
+}
+
+p{
+    color: yellow\;
+}
+
